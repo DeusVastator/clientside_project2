@@ -1,0 +1,39 @@
+ body {
+	margin: 0;
+	padding: 0;
+    background-color:mediumpurple;
+}
+
+#gameOver {
+
+	visibility: hidden;
+    color:ghostwhite;
+}
+
+button#restart {
+	width:100px;
+	display:block;
+	margin:auto;
+	background-color:#272D2D;
+	color:#85CB33;
+    margin-bottom: 5px;
+}
+
+#winner {
+    visibility: hidden;
+    color:ghostwhite;
+}
+
+.main {
+display:block;
+width:480px;
+margin:auto;
+background-color: mediumpurple;
+
+}
+
+.title {
+    text-align: center;
+    color:ghostwhite;
+}
+
